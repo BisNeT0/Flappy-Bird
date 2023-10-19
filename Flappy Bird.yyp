@@ -48,6 +48,7 @@
     {"id":{"name":"spr_fundo2","path":"sprites/spr_fundo2/spr_fundo2.yy",},},
     {"id":{"name":"spr_explosion","path":"sprites/spr_explosion/spr_explosion.yy",},},
     {"id":{"name":"spr_tubo1","path":"sprites/spr_tubo1/spr_tubo1.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},},
     {"id":{"name":"obj_tubo1","path":"objects/obj_tubo1/obj_tubo1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
