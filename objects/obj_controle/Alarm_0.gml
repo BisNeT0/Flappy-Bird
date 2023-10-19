@@ -1,5 +1,4 @@
- /// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+
 randomize()
 if (global.comecou) {
 	var _y = irandom_range(-280, -50)

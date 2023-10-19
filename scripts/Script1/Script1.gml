@@ -6,3 +6,4 @@ function pontuar(){
 		global.pontuou = true
     }
 }
+
