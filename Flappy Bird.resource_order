@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_tubo_pai","order":1,"path":"objects/obj_tubo_pai/obj_tubo_pai.yy",},
+  ],
 }

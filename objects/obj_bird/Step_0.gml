@@ -2,11 +2,11 @@
 // Você pode escrever seu código neste editor
 
 if (global.comecou) {
-	vspeed += 0.5	
+	vspeed += 0.3	
 }
 
 vspeed = clamp (vspeed, -maxspeed, maxspeed)
-y = clamp (y,40, room_height - 40)
+y = clamp (y,40, room_height - 40) 
 
 if (vspeed < 0 ) {	
 	image_angle = 10
