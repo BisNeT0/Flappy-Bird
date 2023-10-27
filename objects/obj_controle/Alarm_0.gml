@@ -5,6 +5,7 @@ if (global.comecou) {
 	instance_create_layer(750, _y, "instances", obj_tubo1)
 	instance_create_layer(750, _y + 830, "instances", obj_tubo2)
 	pontuar()
+	
 
 }
 

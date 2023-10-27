@@ -3,6 +3,8 @@
 
 if (global.comecou) {
 	vspeed += 0.5	
+	audio_pause_sound(snd_musica_de_fundo)
+
 }
 
 vspeed = clamp (vspeed, -maxspeed, maxspeed)

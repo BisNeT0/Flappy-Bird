@@ -1,4 +1,8 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"snd_asas","order":1,"path":"sounds/snd_asas/snd_asas.yy",},
+    {"name":"snd_colisao","order":2,"path":"sounds/snd_colisao/snd_colisao.yy",},
+    {"name":"snd_musica_de_fundo","order":3,"path":"sounds/snd_musica_de_fundo/snd_musica_de_fundo.yy",},
+  ],
 }
