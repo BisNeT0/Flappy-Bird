@@ -2,5 +2,4 @@
 // Você pode escrever seu código neste editor
 maxspeed = 4
 global.comecou = false
-
 sound_played = false
