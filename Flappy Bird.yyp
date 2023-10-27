@@ -64,6 +64,7 @@
     {"id":{"name":"obj_controle","path":"objects/obj_controle/obj_controle.yy",},},
     {"id":{"name":"snd_musica_de_fundo","path":"sounds/snd_musica_de_fundo/snd_musica_de_fundo.yy",},},
     {"id":{"name":"obj_tubo1","path":"objects/obj_tubo1/obj_tubo1.yy",},},
+    {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"rm02","path":"rooms/rm02/rm02.yy",},},
   ],
   "RoomOrderNodes": [
