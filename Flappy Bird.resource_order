@@ -3,6 +3,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_menu","order":1,"path":"objects/obj_menu/obj_menu.yy",},
     {"name":"obj_logo","order":2,"path":"objects/obj_logo/obj_logo.yy",},
+    {"name":"obj_point","order":6,"path":"objects/obj_point/obj_point.yy",},
     {"name":"rm01","order":1,"path":"rooms/rm01/rm01.yy",},
     {"name":"snd_asas","order":1,"path":"sounds/snd_asas/snd_asas.yy",},
     {"name":"rm03","order":2,"path":"rooms/rm03/rm03.yy",},
@@ -14,6 +15,7 @@
     {"name":"obj_pipe","order":5,"path":"objects/obj_pipe/obj_pipe.yy",},
     {"name":"snd_game_over","order":4,"path":"sounds/snd_game_over/snd_game_over.yy",},
     {"name":"snd_musica_de_fundo","order":3,"path":"sounds/snd_musica_de_fundo/snd_musica_de_fundo.yy",},
+    {"name":"spr_point","order":4,"path":"sprites/spr_point/spr_point.yy",},
     {"name":"obj_pause","order":4,"path":"objects/obj_pause/obj_pause.yy",},
   ],
 }
