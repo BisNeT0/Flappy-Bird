@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},},
     {"id":{"name":"obj_logo","path":"objects/obj_logo/obj_logo.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"obj_point","path":"objects/obj_point/obj_point.yy",},},
     {"id":{"name":"spr_bird","path":"sprites/spr_bird/spr_bird.yy",},},
     {"id":{"name":"rm01","path":"rooms/rm01/rm01.yy",},},

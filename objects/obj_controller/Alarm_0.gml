@@ -1,17 +1,4 @@
-
-//randomize()
-//if (global.comecou) {
-//	var _y = irandom_range(-280, -50)
-//	instance_create_layer(750, _y, "instances", obj_tubo1)
-//	instance_create_layer(750, _y + 830, "instances", obj_tubo2)
-//	pontuar()
-	
-
-//}
-
-
-
-var x1 = room_width +50
+var x1 = room_width +230
 var y1 =  irandom_range(-300,-20)
 var margin = 450
 var p_down = instance_create_layer(x1,y1,"Pipes",obj_pipe);
@@ -24,4 +11,5 @@ var point = instance_create_layer(x1,p_up.y - sprite_get_height(spr_point)-322,"
 point.target = p_up.id
 
 
-alarm [0] = timer
+alarm [0] = global.timer
+alarm[1] = 60
